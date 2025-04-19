@@ -56,7 +56,7 @@ const characters = [
     id: 1,
     name: "Character Name",
     description: "A detailed description of the character's background, personality, and role in the story.",
-    image: "./images/characters/0D79E151-12A8-450A-8047-511E216BDA8D_1_105_c.jpeg",
+    image: "/images/characters/0D79E151-12A8-450A-8047-511E216BDA8D_1_105_c.jpeg",
     stats: {
       "Level": 1,
       "Class": "Warrior",
